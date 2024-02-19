@@ -1,0 +1,8 @@
+[
+  {"_id": "1", "name": "Angular", "category": "Frontend"},
+  {"_id": "2", "name": "React", "category": "Frontend"},
+  {"_id": "3", "name": "Vue", "category": "Frontend"},
+  {"_id": "4", "name": "Node", "category": "Backend"},
+  {"_id": "5", "name": "Express", "category": "Backend"},
+  {"_id": "6", "name": "Django", "category": "Backend"}
+]

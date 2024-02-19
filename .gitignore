@@ -1,0 +1,77 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+# ANGULAR
+# Compiled output
+crud-angular/dist
+crud-angular/tmp
+crud-angular/out-tsc
+crud-angular/bazel-out
+
+# Node
+crud-angular/node_modules
+crud-angular/npm-debug.log
+crud-angular/yarn-error.log
+
+# IDEs and editors
+crud-angular/.idea/
+crud-angular/.project
+crud-angular/.classpath
+crud-angular/.c9/
+crud-angular/*.launch
+crud-angular/.settings/
+crud-angular/*.sublime-workspace
+
+# Visual Studio Code
+crud-angular/.vscode/*
+crud-angular/!.vscode/settings.json
+crud-angular/!.vscode/tasks.json
+crud-angular/!.vscode/launch.json
+crud-angular/!.vscode/extensions.json
+crud-angular/.history/*
+
+# Miscellaneous
+crud-angular/.angular/cache
+crud-angular/.sass-cache/
+crud-angular/connect.lock
+crud-angular/coverage
+crud-angular/libpeerconnection.log
+crud-angular/testem.log
+crud-angular/typings
+
+# System files
+crud-angular/.DS_Store
+crud-angular/Thumbs.db
+
+#SPRING
+crud-spring/HELP.md
+crud-spring/target/
+crud-spring/!.mvn/wrapper/maven-wrapper.jar
+crud-spring/!**/src/main/**/target/
+crud-spring/!**/src/test/**/target/
+
+### STS ###
+crud-spring/.apt_generated
+crud-spring/.classpath
+crud-spring/.factorypath
+crud-spring/.project
+crud-spring/.settings
+crud-spring/.springBeans
+crud-spring/.sts4-cache
+
+### IntelliJ IDEA ###
+crud-spring/.idea
+crud-spring/*.iws
+crud-spring/*.iml
+crud-spring/*.ipr
+
+### NetBeans ###
+crud-spring//nbproject/private/
+crud-spring//nbbuild/
+crud-spring//dist/
+crud-spring//nbdist/
+crud-spring//.nb-gradle/
+crud-spring/build/
+crud-spring/!**/src/main/**/build/
+crud-spring/!**/src/test/**/build/
+
+### VS Code ###
+crud-spring/.vscode/
